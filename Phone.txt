@@ -3,3 +3,4 @@ Call
 wireless charging
 Bluetooth
 In display fingerprint
+live call translator based on AI
