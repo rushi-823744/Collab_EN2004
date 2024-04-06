@@ -1,5 +1,3 @@
 Brand-iphone
 Call 
-
-
-+ torch
+torch
